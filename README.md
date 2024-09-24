@@ -5,8 +5,8 @@
 **Professor:** João Trindade, gabinete F.0.21
 
 **Horário:**
- - 2ª feira, 12:30-14:00, [T] E.1.09
- - 3ª feira, 09:30-12:30, [T] E.1.09 / [P] LH4 (F.-1.09)
+ - 2ª feira, 12:30-14:00, [T] G.2.09
+ - 3ª feira, 09:30-12:30, [T] E.1.09 / [P] LH1 (F.0.46)
 
 **Info**
  - [Informações gerais](https://github.com/isel-leic-tvs/info/blob/main/README.pt.md#t%C3%A9cnicas-de-virtualiza%C3%A7%C3%A3o-de-sistemas--system-virtualization-techniques)
